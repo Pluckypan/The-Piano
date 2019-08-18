@@ -3,6 +3,8 @@
 This is a Logic Pro X project of **The Piano** which is the sound track of Dancing Line.The soundtrack is inspired by [Empire of Angels](https://www.youtube.com/watch?v=izsjRpcgfmk), composed by [Thomas Bergersen](https://en.wikipedia.org/wiki/Thomas_Bergersen).
 If you got a problem, an [Issue](https://github.com/Pluckypan/The-Piano/issues/new) is welcome.and if you have great ideas about this project,send me your [Pr](https://github.com/Pluckypan/The-Piano/compare).
 
+**工程预览** [https://www.bilibili.com/video/av64229242](https://www.bilibili.com/video/av64229242)
+
 ![Project](https://github.com/Pluckypan/The-Piano/blob/master/img/screenshot.jpg?raw=true)
 
 ![The Piano](https://github.com/Pluckypan/The-Piano/blob/master/img/the%20paino.jpg?raw=true)

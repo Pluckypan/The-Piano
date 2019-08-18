@@ -5,6 +5,12 @@ If you got a problem, an [Issue](https://github.com/Pluckypan/The-Piano/issues/n
 
 **工程预览** [https://www.bilibili.com/video/av64229242](https://www.bilibili.com/video/av64229242)
 
+#### 下载工程
+1. 如果你是程序开发人员,可以直接 `git clone git@github.com:Pluckypan/The-Piano.git`,当然你也可以 `fork` 一份你自己的分支
+2. 如果你不是,也可以直接 [点击这里](https://github.com/Pluckypan/The-Piano/releases) 下载不同版本的 **zip** 包
+
+
+
 ![Project](https://github.com/Pluckypan/The-Piano/blob/master/img/screenshot.jpg?raw=true)
 
 ![The Piano](https://github.com/Pluckypan/The-Piano/blob/master/img/the%20paino.jpg?raw=true)
